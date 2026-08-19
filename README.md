@@ -2,7 +2,7 @@
  
 # Hey there, I'm Salwyn Christopher👋🚀
  
-### Graduated B.TECH CS Student | Data Analyst | MERN-Stack Developer | Open for Opportunities
+### B.TECH CS Student | Data Analyst | MERN-Stack Developer | Open for Opportunities
 
   
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+real-world+projects;Data+Analyst;MERN+Stack+Developer;Always+learning+new+things;Looking+for+internships+%26+jobs" alt="Typing SVG" />
@@ -17,7 +17,7 @@
 
 <div align="left">
 
-I'm a final-year Computer Science student in India. It's been a balancing act between staying on top of coursework and spending most of my time building things that actually work and ship. Right now, I'm **actively hunting for internships or full-time roles** where I can write real code and learn from people who know way more than I do.
+I'm a Graduated B.Tech Computer Science student in India. It's been a balancing act between staying on top of coursework and spending most of my time building things that actually work and ship. Right now, I'm **actively hunting for internships or full-time roles** where I can write real code and learn from people who know way more than I do.
 
 💡 Currently working on **ethishop** - an e-commerce platform analyzing products for sustainability  
 🌱 Learning backend optimization, deployment, DevOps practices, and data analysis workflows 
@@ -34,13 +34,24 @@ I'm a final-year Computer Science student in India. It's been a balancing act be
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SalwynC&theme=whatsapp-dark2&date_format=M%20j%5B%2C%20Y%5D&card_width=496)](https://git.io/streak-stats)
-
-</div>
-
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SalwynC&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+
+<!-- GitHub Streak Stats -->
+<img
+  src="https://streak-stats.demolab.com?user=SalwynC&theme=whatsapp-dark2&date_format=M%20j%5B%2C%20Y%5D&card_width=496"
+  alt="GitHub Streak Stats"
+/>
+
+<br><br>
+
+<!-- GitHub Stats -->
+<img
+  src="https://github-readme-stats.vercel.app/api?username=SalwynC&show_icons=true&theme=tokyonight&hide_border=true"
+  alt="GitHub Stats"
+/>
+
 </div>
+
 
 ---
 ## 🛠️ Tech Stack
