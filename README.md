@@ -40,11 +40,10 @@ I'm a Graduated B.Tech Computer Science student in India. It's been a balancing 
 
 <br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Salwyn-Christopher&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Salwyn-Christopher&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 
 </div>
+
 
 ---
 ## 🛠️ Tech Stack
