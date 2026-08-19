@@ -35,10 +35,17 @@ I'm a Graduated B.Tech Computer Science student in India. It's been a balancing 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=SalwynC&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  </a>
+  <img src="./streak.svg" alt="GitHub Streak" />
 </p>
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SalwynC&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+</div>
+
 
 
 ---
