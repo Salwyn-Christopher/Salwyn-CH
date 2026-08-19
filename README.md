@@ -36,7 +36,7 @@ I'm a Graduated B.Tech Computer Science student in India. It's been a balancing 
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=Salwyn-Christopher" alt="GitHub Streak" />
+    <img src="https://github-readme-stats.vercel.app/api?username=SalwynC&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
   </a>
 </p>
 
