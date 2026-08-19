@@ -35,7 +35,7 @@ I'm a Graduated B.Tech Computer Science student in India. It's been a balancing 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="./streak.svg" alt="GitHub Streak" />
+  <img src="./profile/streak.svg" alt="GitHub Streak" />
 </p>
 
 <br>
@@ -45,8 +45,6 @@ I'm a Graduated B.Tech Computer Science student in India. It's been a balancing 
 </p>
 
 </div>
-
-
 
 ---
 ## 🛠️ Tech Stack
