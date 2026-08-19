@@ -36,19 +36,11 @@ I'm a Graduated B.Tech Computer Science student in India. It's been a balancing 
 
 <div align="center">
 
-<!-- GitHub Streak Stats -->
-<img
-  src="https://streak-stats.demolab.com?user=SalwynC&theme=whatsapp-dark2&date_format=M%20j%5B%2C%20Y%5D&card_width=496"
-  alt="GitHub Streak Stats"
-/>
+<img src="https://streak-stats.demolab.com?user=SalwynC&theme=whatsapp-dark2&hide_border=true" alt="GitHub Streak" />
 
-<br><br>
+<br />
 
-<!-- GitHub Stats -->
-<img
-  src="https://github-readme-stats.vercel.app/api?username=SalwynC&show_icons=true&theme=tokyonight&hide_border=true"
-  alt="GitHub Stats"
-/>
+<img src="https://github-readme-stats.vercel.app/api?username=SalwynC&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 
 </div>
 
