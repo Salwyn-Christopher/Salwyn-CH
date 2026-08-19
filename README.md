@@ -41,7 +41,7 @@ I'm a Graduated B.Tech Computer Science student in India. It's been a balancing 
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SalwynC&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Salwyn-Christopher&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 </div>
@@ -89,9 +89,9 @@ I've also built a few other things along the way: a chat app, some automation sc
 
 <div align="left">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SalwynC&repo=ethical-shopping-platform&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Salwyn-Christopher&repo=ethical-shopping-platform&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SalwynC&repo=Chat-App&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Salwyn-Christopher&repo=Chat-App&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -125,7 +125,7 @@ I've also built a few other things along the way: a chat app, some automation sc
 
 If you're **hiring**, building something interesting, or just want to talk about code, I'm around. I'm actively looking for opportunities where I can contribute and grow—whether that's an internship or a full-time gig.
 
-[![GitHub](https://img.shields.io/badge/GitHub-@SalwynC-181717?style=for-the-badge&logo=github)](https://github.com/SalwynC)
+[![GitHub](https://img.shields.io/badge/GitHub-@Salwyn-Christopher-181717?style=for-the-badge&logo=github)](https://github.com/Salwyn-Christopher)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live_Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://salwyn-portfolio.vercel.app/)
 
 **Feel free to check out my repos or reach out. Always happy to chat about web dev, projects, or just swap coding war stories!** 🚀
@@ -134,7 +134,7 @@ If you're **hiring**, building something interesting, or just want to talk about
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=SalwynC&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Salwyn-Christopher&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
 </div>
 
