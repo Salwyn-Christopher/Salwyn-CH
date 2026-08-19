@@ -1,6 +1,6 @@
 <div align="center">
  
-# Hey there, I'm Salwyn! 👋🚀
+# Hey there, I'm Salwyn Christopher👋🚀
  
 ### Final Year CS Student | Data Analyst | MERN-Stack Developer | Open for Opportunities
 
